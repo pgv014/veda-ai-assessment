@@ -11,7 +11,7 @@ A production-style Next.js implementation for the VedaAI hiring assignment.
 - Handles unanswered and unmatched answers
 - Highlights the mapped answer region directly on the original page image
 - Generates per-question feedback and a conservative score
-- Responsive teacher review workspace
+- Responsive teacher review workspace.
 
 ## Stack
 - Next.js + React + TypeScript
