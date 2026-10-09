@@ -18,7 +18,7 @@ A production-style Next.js implementation for the VedaAI hiring assignment.
 - Gemini 2.5 Flash for multimodal extraction/mapping
 - PDF.js for browser-side PDF rendering
 - Lucide icons
-- No database / authentication.
+- No database / authentication
 
 ## Run locally
 1. Install Node 20+
